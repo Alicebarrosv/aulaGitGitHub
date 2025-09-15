@@ -168,3 +168,63 @@ pois o comando “commit” foi executado.
 1) Realizar envio do repositório local para o repositório remoto.
 
    <img width="601" height="234" alt="image" src="https://github.com/user-attachments/assets/945f5ad3-86f0-48f2-951c-c1c75b94758c" />
+
+# git fetch
+
+1) Na página do repositório remoto, modifique o conteúdo do arquivo “arq.js”, conforme
+apresentado abaixo. Em seguida, clique no botão de “Commit changes”:
+2) Ainda na página do repositório remoto, crie o arquivo “arq.css”, conforme apresentado
+nas figuras abaixo:
+
+   <img width="1101" height="187" alt="image" src="https://github.com/user-attachments/assets/479ff56a-3a55-40a4-896c-a0b40c2ae124" />
+
+3) Buscar o repositório remoto para o repositório local.
+4) Reportar o estado do repositório local.
+
+   <img width="591" height="247" alt="image" src="https://github.com/user-attachments/assets/ee384c6d-e434-4915-9114-6fc9141b40b2" />
+
+5) Fazer o merge.
+6) Verificar o novo status.
+
+     <img width="606" height="252" alt="image" src="https://github.com/user-attachments/assets/24b03677-6405-4da5-a0ca-54ace597e4a7" />
+
+# git pull
+
+1) Altere o arquivo arq.css remoto, como indicado na figura abaixo:
+2) Buscar o repositório remoto para o repositório local, realizando o “merge” dos “branchs”.
+3) Reportar o estado do repositório local.
+
+      <img width="590" height="288" alt="image" src="https://github.com/user-attachments/assets/85bd7093-1288-4faa-ac6e-d12b5240cace" />
+
+4) Alterações realizadas no diretório de trabalho:
+
+      <img width="498" height="226" alt="image" src="https://github.com/user-attachments/assets/1654fd86-576c-44b6-a821-c55fc88418fd" />
+
+5) Exibir histórico.
+
+      <img width="696" height="918" alt="image" src="https://github.com/user-attachments/assets/b4fde342-cda9-4ad3-b1c4-bf9e817a0d41" />
+
+# Exercício 09
+
+1) Arquivos listados dentro do arquivo “.gitignore” são ignorados pelo Git.
+2) Alterar o arquivo local arq.css como indicado abaixo:
+3) Criar o arquivo local config.json com o conteúdo abaixo:
+4) Criar o arquivo local “.gitignore” com o conteúdo abaixo:
+
+    <img width="664" height="214" alt="image" src="https://github.com/user-attachments/assets/f4308b4b-d94e-44ef-a7c2-ac0c304fa9f4" />
+
+5) Execute os comandos:
+
+    <img width="563" height="305" alt="image" src="https://github.com/user-attachments/assets/49ef07a4-8354-44f4-9e59-aab393700efc" />
+
+    <img width="565" height="235" alt="image" src="https://github.com/user-attachments/assets/4e223381-41d3-40f1-92b5-f52e72c2a0bd" />
+
+    <img width="564" height="156" alt="image" src="https://github.com/user-attachments/assets/82cc79a8-d8e8-4f14-95f4-820ed835794c" />
+
+
+
+
+    
+
+
+
